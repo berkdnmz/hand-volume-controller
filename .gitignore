@@ -1,0 +1,19 @@
+# Sanal ortam klasörü
+.venv/
+
+# PyCharm IDE ayarları
+.idea/
+
+# Ekstra klasör (örnek: test, deneme, vs.)
+extras/
+
+# Python bytecode dosyaları
+__pycache__/
+*.py[cod]
+
+# Log dosyaları
+*.log
+
+# Sistem dosyaları
+.DS_Store
+Thumbs.db
